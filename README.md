@@ -7,3 +7,7 @@ Aula extremamente enriquecedora!! Não tinha noção de como se executava uma fu
 
 ![image](https://github.com/user-attachments/assets/967d0f5f-bf86-49c1-915a-3cdfa45473cd)
 
+Na aula de: Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados também não consegui ter acesso a parte que precisava, mas entendi muito bem o que foi dito e como foi feito. A ferramenta é utilizada para filtrar partes do documento de acordo com uma palavra chave. Isso ajuda na tomada de decisões, uma vez que conseguimos, dentre tantos dados, capturar apenas os que precisamos e o que faz sentido para ajudar a realizar uma análise ou uma tomada de decisão, sendo uma ferramente poderosa. No contexto da aula, ela aplicou para um lugar específico, mas poderiamos utilizar qualquer palavra para orientar nossas buscas dentro do documento.
+
+![image](https://github.com/user-attachments/assets/53d14251-7eb6-4fce-95fa-6feade58810f)
+
